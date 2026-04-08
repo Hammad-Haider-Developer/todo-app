@@ -1,3 +1,46 @@
+📝 React Todo App
+
+A simple and responsive Todo App built using React.js that allows users to manage their daily tasks efficiently. This application includes basic todo operations such as adding, updating, and deleting tasks with a clean and user-friendly interface.
+
+🚀 Features
+Add new tasks
+Update existing tasks
+Delete tasks
+Mark tasks as completed
+Real-time UI updates using React state
+Clean and responsive design
+Component-based architecture
+🛠️ Technologies Used
+React.js
+JavaScript (ES6)
+HTML
+CSS
+
+🎯 Purpose of the Project
+
+The purpose of this project is to practice React.js fundamentals, including:
+
+Components
+Props
+State Management
+Event Handling
+CRUD operations
+React project structure
+
+This project helps in understanding how modern front-end applications are built using React.
+
+▶️ How to Run the Project
+Clone the repository
+git clone https://github.com/Hammad-Haider-Developer/todo-app.git
+Go to project folder
+cd todo-app
+Install dependencies
+npm install
+Run the project
+npm run dev
+Open in browser
+http://localhost:5173
+
 <<<<<<< HEAD
 # React + Vite
 
