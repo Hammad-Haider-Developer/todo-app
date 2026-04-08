@@ -1,0 +1,43 @@
+.container {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.title {
+  font-size: 52px;
+  margin-bottom: 20px;
+  font-family: sans-serif;
+}
+
+.inputBox input {
+  padding: 10px;
+  width: 70%;
+  font-size: 20px;
+}
+
+.inputBox button {
+  padding: 10px;
+}
+
+.todoItem {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid gray;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.filter button {
+  margin: 5px;
+  padding: 8px;
+  background-color: rgb(60, 161, 165);
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 20px;
+}
